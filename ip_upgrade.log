@@ -1,0 +1,247 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Sun Dec 27 14:52:08 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 12) to (Rev. 13)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Dec 24 09:28:45 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Thu Dec 24 00:57:40 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 10) to (Rev. 11)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Dec 23 19:43:47 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 9) to (Rev. 10)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Dec 23 17:02:17 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 8) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Dec 23 16:55:54 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Dec 23 16:43:28 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Dec 23 16:37:38 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Dec 23 16:11:55 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Dec 23 15:54:50 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Dec 23 15:49:40 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
+| Date         : Wed Dec 23 15:44:42 2020
+| Host         : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'System_design_FPU_ip_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of System_design_FPU_ip_0_0 (xilinx.com:user:FPU_ip:1.0) from (Rev. 1) to (Rev. 2)
+

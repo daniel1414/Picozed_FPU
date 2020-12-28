@@ -1,0 +1,19 @@
+vhdl xil_defaultlib  \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_add_d/sim/alu_add_d.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_add_f/sim/alu_add_f.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_sub_f/sim/alu_sub_f.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_sub_d/sim/alu_sub_d.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_mul_f/sim/alu_mul_f.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_mul_d/sim/alu_mul_d.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_div_f/sim/alu_div_f.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_div_d/sim/alu_div_d.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_rec_f/sim/alu_rec_f.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_rec_d/sim/alu_rec_d.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_sqrt_f/sim/alu_sqrt_f.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_sqrt_d/sim/alu_sqrt_d.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_log_f/sim/alu_log_f.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_log_d_1/sim/alu_log_d.vhd" \
+"../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_exp_f/sim/alu_exp_f.vhd" \
+"../../../bd/System_design/ip/System_design_rst_ps7_0_100M_0/sim/System_design_rst_ps7_0_100M_0.vhd" \
+
+nosort
