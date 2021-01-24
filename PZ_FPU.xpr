@@ -40,13 +40,13 @@
     <Option Name="WTVcsLaunchSim" Val="0"/>
     <Option Name="WTRivieraLaunchSim" Val="0"/>
     <Option Name="WTActivehdlLaunchSim" Val="0"/>
-    <Option Name="WTXSimExportSim" Val="10"/>
-    <Option Name="WTModelSimExportSim" Val="10"/>
-    <Option Name="WTQuestaExportSim" Val="10"/>
-    <Option Name="WTIesExportSim" Val="10"/>
-    <Option Name="WTVcsExportSim" Val="10"/>
-    <Option Name="WTRivieraExportSim" Val="10"/>
-    <Option Name="WTActivehdlExportSim" Val="10"/>
+    <Option Name="WTXSimExportSim" Val="11"/>
+    <Option Name="WTModelSimExportSim" Val="11"/>
+    <Option Name="WTQuestaExportSim" Val="11"/>
+    <Option Name="WTIesExportSim" Val="11"/>
+    <Option Name="WTVcsExportSim" Val="11"/>
+    <Option Name="WTRivieraExportSim" Val="11"/>
+    <Option Name="WTActivehdlExportSim" Val="11"/>
     <Option Name="GenerateIPUpgradeLog" Val="TRUE"/>
     <Option Name="XSimRadix" Val="hex"/>
     <Option Name="XSimTimeUnit" Val="ns"/>
@@ -63,14 +63,14 @@
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
-        <CompFileExtendedInfo CompFileName="System_design.bd" FileRelPathName="ip/System_design_rst_ps7_0_100M_0/System_design_rst_ps7_0_100M_0.xci">
-          <Proxy FileSetName="System_design_rst_ps7_0_100M_0"/>
+        <CompFileExtendedInfo CompFileName="System_design.bd" FileRelPathName="ip/System_design_FPU_ip_0_0/System_design_FPU_ip_0_0.xci">
+          <Proxy FileSetName="System_design_FPU_ip_0_0"/>
         </CompFileExtendedInfo>
         <CompFileExtendedInfo CompFileName="System_design.bd" FileRelPathName="ip/System_design_processing_system7_0_0/System_design_processing_system7_0_0.xci">
           <Proxy FileSetName="System_design_processing_system7_0_0"/>
         </CompFileExtendedInfo>
-        <CompFileExtendedInfo CompFileName="System_design.bd" FileRelPathName="ip/System_design_FPU_ip_0_0/System_design_FPU_ip_0_0.xci">
-          <Proxy FileSetName="System_design_FPU_ip_0_0"/>
+        <CompFileExtendedInfo CompFileName="System_design.bd" FileRelPathName="ip/System_design_rst_ps7_0_100M_0/System_design_rst_ps7_0_100M_0.xci">
+          <Proxy FileSetName="System_design_rst_ps7_0_100M_0"/>
         </CompFileExtendedInfo>
       </File>
       <Config>

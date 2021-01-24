@@ -2,8 +2,8 @@
 # Vivado v2017.4 (64-bit)
 # SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
 # IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
-# Start of session at: Sun Dec 27 15:14:37 2020
-# Process ID: 11356
+# Start of session at: Tue Jan  5 11:33:57 2021
+# Process ID: 15048
 # Current directory: D:/Xilinx_projects/PZ_FPU/PZ_FPU.runs/synth_1
 # Command line: vivado.exe -log System_design.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source System_design.tcl
 # Log file: D:/Xilinx_projects/PZ_FPU/PZ_FPU.runs/synth_1/System_design.vds

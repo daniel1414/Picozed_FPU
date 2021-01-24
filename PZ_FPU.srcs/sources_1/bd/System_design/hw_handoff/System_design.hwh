@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<EDKSYSTEM EDWVERSION="1.2" TIMESTAMP="Sun Dec 27 14:53:08 2020" VIVADOVERSION="2017.4">
+<EDKSYSTEM EDWVERSION="1.2" TIMESTAMP="Tue Jan  5 11:12:28 2021" VIVADOVERSION="2017.4">
 
   <SYSTEMINFO ARCH="zynq" BOARD="em.avnet.com:picozed_7010_fmc2:part0:1.1" DEVICE="7z010" NAME="System_design" PACKAGE="clg400" SPEEDGRADE="-1"/>
 

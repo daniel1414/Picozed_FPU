@@ -1,7 +1,7 @@
 -- Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
 -- --------------------------------------------------------------------------------
 -- Tool Version: Vivado v.2017.4 (win64) Build 2086221 Fri Dec 15 20:55:39 MST 2017
--- Date        : Sun Dec 27 15:02:29 2020
+-- Date        : Tue Jan  5 11:22:55 2021
 -- Host        : DESKTOP-B25T4O0 running 64-bit major release  (build 9200)
 -- Command     : write_vhdl -force -mode synth_stub
 --               D:/Xilinx_projects/PZ_FPU/PZ_FPU.srcs/sources_1/bd/System_design/ip/System_design_FPU_ip_0_0/System_design_FPU_ip_0_0_stub.vhdl

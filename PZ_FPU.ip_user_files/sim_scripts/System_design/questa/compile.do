@@ -102,17 +102,17 @@ vcom -work xil_defaultlib -64 -93 \
 "../../../bd/System_design/ip/System_design_FPU_ip_0_0/src/alu_exp_f/sim/alu_exp_f.vhd" \
 
 vlog -work xil_defaultlib -64 "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/ec67/hdl" "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/02c8/hdl/verilog" "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/1313/hdl" "+incdir+D:/Xilinx/Vivado/2017.4/data/xilinx_vip/include" "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/ec67/hdl" "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/02c8/hdl/verilog" "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/1313/hdl" "+incdir+D:/Xilinx/Vivado/2017.4/data/xilinx_vip/include" \
-"../../../bd/System_design/ipshared/715f/src/FPU.v" \
-"../../../bd/System_design/ipshared/715f/hdl/FPU_ip_v1_0_S00_AXI.v" \
-"../../../bd/System_design/ipshared/715f/src/alu.v" \
-"../../../bd/System_design/ipshared/715f/src/control_unit.v" \
-"../../../bd/System_design/ipshared/715f/src/data_mem.v" \
-"../../../bd/System_design/ipshared/715f/src/double_reg.v" \
-"../../../bd/System_design/ipshared/715f/src/float_reg.v" \
-"../../../bd/System_design/ipshared/715f/src/instr_mem.v" \
-"../../../bd/System_design/ipshared/715f/src/mux2.v" \
-"../../../bd/System_design/ipshared/715f/src/reg_file.v" \
-"../../../bd/System_design/ipshared/715f/hdl/FPU_ip_v1_0.v" \
+"../../../bd/System_design/ipshared/3380/src/FPU.v" \
+"../../../bd/System_design/ipshared/3380/hdl/FPU_ip_v1_0_S00_AXI.v" \
+"../../../bd/System_design/ipshared/3380/src/alu.v" \
+"../../../bd/System_design/ipshared/3380/src/control_unit.v" \
+"../../../bd/System_design/ipshared/3380/src/data_mem.v" \
+"../../../bd/System_design/ipshared/3380/src/double_reg.v" \
+"../../../bd/System_design/ipshared/3380/src/float_reg.v" \
+"../../../bd/System_design/ipshared/3380/src/instr_mem.v" \
+"../../../bd/System_design/ipshared/3380/src/mux2.v" \
+"../../../bd/System_design/ipshared/3380/src/reg_file.v" \
+"../../../bd/System_design/ipshared/3380/hdl/FPU_ip_v1_0.v" \
 "../../../bd/System_design/ip/System_design_FPU_ip_0_0/sim/System_design_FPU_ip_0_0.v" \
 
 vlog -work axi_infrastructure_v1_1_0 -64 "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/ec67/hdl" "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/02c8/hdl/verilog" "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/1313/hdl" "+incdir+D:/Xilinx/Vivado/2017.4/data/xilinx_vip/include" "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/ec67/hdl" "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/02c8/hdl/verilog" "+incdir+../../../../PZ_FPU.srcs/sources_1/bd/System_design/ipshared/1313/hdl" "+incdir+D:/Xilinx/Vivado/2017.4/data/xilinx_vip/include" \

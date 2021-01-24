@@ -81,7 +81,7 @@ begin
     if(cnt == (i1 > i2 ? i1 : i2))
     begin
         data_addr <= 4'h0;
-        data_op <= 2'b10;
+        data_op <= 2'b00;
     end
     if(cnt == (i1 > i2 ? i1 + 32 : i2 + 32))
     begin
@@ -89,14 +89,19 @@ begin
     end
     if(cnt == i2)
     begin
-        data_op <= 2'b00;
+        data_op <= 2'b10;
+    end
+    if(program_ready && cnt == 5)
+    begin
+        reset <= 1'b1;
     end
 end
 
 always @(posedge program_ready)
 begin
+    cnt <= 0;
     data_addr <= 4'b0;
-    data_op <= 2'b00;
+    data_op <= 2'b10;
 end
 
 wire [63:0] data_mem_out_data;

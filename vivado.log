@@ -1,0 +1,41 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Jan  4 20:56:50 2021
+# Process ID: 17972
+# Current directory: D:/Xilinx_projects/PZ_FPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17784 D:\Xilinx_projects\PZ_FPU\PZ_FPU.xpr
+# Log file: D:/Xilinx_projects/PZ_FPU/vivado.log
+# Journal file: D:/Xilinx_projects/PZ_FPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Xilinx_projects/PZ_FPU/PZ_FPU.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/Xilinx_projects/ip_repo/FPU_ip_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.4/data/ip'.
+open_project: Time (s): cpu = 00:00:23 ; elapsed = 00:00:35 . Memory (MB): peak = 867.527 ; gain = 219.957
+update_compile_order -fileset sources_1
+open_bd_design {D:/Xilinx_projects/PZ_FPU/PZ_FPU.srcs/sources_1/bd/System_design/System_design.bd}
+Adding cell -- xilinx.com:ip:processing_system7:5.5 - processing_system7_0
+Adding cell -- xilinx.com:ip:proc_sys_reset:5.0 - rst_ps7_0_100M
+Adding cell -- xilinx.com:user:FPU_ip:1.0 - FPU_ip_0
+Adding cell -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Successfully read diagram <System_design> from BD file <D:/Xilinx_projects/PZ_FPU/PZ_FPU.srcs/sources_1/bd/System_design/System_design.bd>
+open_bd_design: Time (s): cpu = 00:00:12 ; elapsed = 00:00:15 . Memory (MB): peak = 956.320 ; gain = 74.324
+ipx::edit_ip_in_project -upgrade true -name FPU_ip_v1_0_project -directory D:/Xilinx_projects/PZ_FPU/PZ_FPU.tmp/FPU_ip_v1_0_project d:/Xilinx_projects/ip_repo/FPU_ip_1.0/component.xml
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.4/data/ip'.
+create_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:05 . Memory (MB): peak = 969.789 ; gain = 11.148
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/Xilinx_projects/ip_repo/FPU_ip_1.0'.
+INFO: [IP_Flow 19-795] Syncing license key meta-data
+ipx::edit_ip_in_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:15 . Memory (MB): peak = 981.098 ; gain = 22.457
+update_compile_order -fileset sources_1
+current_project PZ_FPU
+close_project
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Jan  4 23:15:14 2021...
